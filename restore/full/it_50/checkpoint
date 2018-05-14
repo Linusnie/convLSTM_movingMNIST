@@ -1,0 +1,3 @@
+model_checkpoint_path: "full"
+all_model_checkpoint_paths: "../it_0/full"
+all_model_checkpoint_paths: "full"

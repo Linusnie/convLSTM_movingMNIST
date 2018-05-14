@@ -1,0 +1,6 @@
+model_checkpoint_path: "predictor"
+all_model_checkpoint_paths: "../it_455000/predictor"
+all_model_checkpoint_paths: "../it_460000/predictor"
+all_model_checkpoint_paths: "../it_465000/predictor"
+all_model_checkpoint_paths: "../it_470000/predictor"
+all_model_checkpoint_paths: "predictor"
