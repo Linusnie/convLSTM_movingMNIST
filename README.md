@@ -11,6 +11,8 @@ Encoder-decoder structure. Takes in a sequence of between 10 and 19 movingMNIST 
 
 
 ## Instructions
+Requires `Tensorflow v1.4` or later (and probably a GPU if you want to train the multistep model)
+
 Clone repository
 ```
 git clone https://github.com/Linusnie/convLSTM_movingMNIST.git
